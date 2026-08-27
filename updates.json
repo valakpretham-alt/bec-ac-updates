@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "bec-connect-ac@jithu.local": {
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://github.com/valakpretham-alt/bec-ac-updates/releases/download/v0.1.0/bec-ac-extension-0.1.0.xpi",
+          "update_hash": "sha256:238a9196bfc087b119f6486adb1d3561d3a726735beb2b74d6c9e930c0846626",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
